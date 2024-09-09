@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 I'm a data enthusiast transitioning from healthcare to data analytics. With a solid foundation in healthcare from my role as a Nursing Assistant and Master's Degree level training in Physician Associate Studies, I am currently completing a comprehensive 9-week data analytics bootcamp at Le Wagon. My skills include data extraction, analysis, and visualization using tools like Google Analytics, BigQuery, and MySQL. I’m passionate about leveraging data to drive insights and make impactful decisions. Currently seeking full-time remote roles in Data Science where I can apply my analytical skills and healthcare experience. Feel free to connect with me or explore my projects!
 <!--
 **JPriceL/JPriceL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
